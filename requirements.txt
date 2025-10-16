@@ -1,0 +1,15 @@
+# Core Libraries
+flask
+groq
+requests
+python-dotenv
+qiskit
+qiskit-ibm-runtime
+
+# For running the beeai framework
+beeai
+
+# NOTE: pyngrok is for exposing a local server.
+# It is not typically needed in a container environment,
+# but included here to match your script.
+pyngrok
